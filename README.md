@@ -128,7 +128,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **LinkedIn**: [Komal Sukheja](https://www.linkedin.com/in/komal-sukheja/)
 - **Email**: komalsukheja2001@gmail.com
-- **GitHub**: [@komal-sukheja](https://github.com/komal-sukheja)
+- **GitHub**: [komal-sukheja](https://github.com/komal-sukheja)
 
 ---
 
