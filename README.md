@@ -9,6 +9,8 @@
 
 An intelligent image classification application powered by the **EfficientNetB0** model, pre-trained on ImageNet. This tool is specifically customized to identify and classify animal species, filtering out non-animal subjects to ensure focused results.
 
+🚀 **Try it live:** [Launch on Hugging Face Spaces](https://huggingface.co/spaces/ksukheja/animal-image-classifier)
+
 ## 📸 App Interface
 
 ![App Interface](assets/ui_screenshot.JPG)
