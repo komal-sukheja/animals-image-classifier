@@ -1,24 +1,13 @@
----
-title: Animal Image Classifier
-emoji: 🦁
-colorFrom: green
-colorTo: blue
-sdk: gradio
-sdk_version: 3.35.2
-app_file: app.py
-pinned: false
-license: mit
----
+
 
 # 🦁 Animal Image Classifier
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Gradio](https://img.shields.io/badge/Gradio-3.35.2-orange)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/ksukheja/animal-image-classifier)
 
 An intelligent image classification application powered by the **EfficientNetB0** model, pre-trained on ImageNet. This tool is specifically customized to identify and classify animal species, filtering out non-animal subjects to ensure focused results.
-
-> 🚀 **Try it live:** [Launch on Hugging Face Spaces](#) *(Link will be added after deployment)*
 
 ## 📸 App Interface
 
@@ -132,3 +121,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📧 Connect With Me
+
+- **LinkedIn**: [Komal Sukheja](https://www.linkedin.com/in/komal-sukheja/)
+- **Email**: komalsukheja2001@gmail.com
+- **GitHub**: [@komal-sukheja](https://github.com/komal-sukheja)
+
+---
+
+⭐ If you found this project useful, please consider giving it a star!
